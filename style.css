@@ -39,7 +39,7 @@ body{
 .app{
   display: flex;
   flex-direction: row;
-  gap: 5px;
+  gap: 25px;
 }
 
 /* width */
